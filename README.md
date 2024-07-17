@@ -89,10 +89,6 @@ This project involves building a tool that assesses the strength of a password b
    pip install -r requirements.txt
    ```
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## 🤝 Connect with Me
 
 LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/aryan-daki-7937aa230/)  
