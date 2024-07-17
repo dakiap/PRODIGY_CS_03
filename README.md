@@ -95,8 +95,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## 🤝 Connect with Me
 
-LinkedIn: [https://www.linkedin.com](https://www.linkedin.com)  
-Email: [vikenhadavani@gmail.com](mailto:vikenhadavani@gmail.com)
+LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/aryan-daki-7937aa230/)  
+Email: [21IT022@charusat.edu.in](mailto:21IT022@charusat.edu.in)
 
 Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
 
