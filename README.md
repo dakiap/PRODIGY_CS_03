@@ -5,7 +5,6 @@ Welcome to my GitHub repository for the Prodigy Infotech Summer Internship 2024!
 ## 🚀 Introduction
 
 **Internship Period:** 1st June 2024 - 30th June 2024  
-**Mentor:** Amit Arora, Security Architect at Prodigy Infotech
 
 The internship period was of 4 weeks, focusing on developing tools for encryption and password strength assessment using Python.
 
